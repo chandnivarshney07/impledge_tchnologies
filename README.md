@@ -1,5 +1,9 @@
 # impledge_tchnologies
 
+#Overview
+
+This program identifies the longest and second-longest compound words from a given input file. A compound word is defined as a word that can be formed entirely by combining two or more other words from the same list. The program efficiently processes the input file and determines the results using a combination of recursion, memoization, and a hash set for quick lookups.
+
 
 #Approach
 
